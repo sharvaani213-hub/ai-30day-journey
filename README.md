@@ -7,6 +7,7 @@ to become an AI Engineer. This repo documents my daily progress.
 | Day | Topics | Status |
 |-----|--------|--------|
 | Day 1 | Python Basics, OOP, File I/O, NumPy, Pandas, Matplotlib | ✅ Done |
+| Day 2 | NumPy Deep Dive, Linear Regression, Classification (Logistic + Decision Tree) | ✅ Done |
 
 ## Tech Stack
 Python · NumPy · Pandas · Matplotlib · scikit-learn · LangChain (upcoming)

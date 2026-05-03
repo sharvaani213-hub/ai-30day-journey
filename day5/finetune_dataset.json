@@ -1,0 +1,32 @@
+[
+  {
+    "instruction": "Classify this student query into a category.",
+    "input": "How do I fix an index out of range error in Python?",
+    "output": "DEBUGGING"
+  },
+  {
+    "instruction": "Classify this student query into a category.",
+    "input": "What is the difference between supervised and unsupervised learning?",
+    "output": "CONCEPT_QUESTION"
+  },
+  {
+    "instruction": "Classify this student query into a category.",
+    "input": "Write a function to reverse a linked list.",
+    "output": "CODE_REQUEST"
+  },
+  {
+    "instruction": "Generate a resume bullet point for this achievement.",
+    "input": "Built a chatbot using Python and OpenAI API",
+    "output": "Engineered an AI-powered chatbot using Python and OpenAI API, automating student Q&A and reducing response time by 75%."
+  },
+  {
+    "instruction": "Generate a resume bullet point for this achievement.",
+    "input": "Created a RAG pipeline with LangChain and ChromaDB",
+    "output": "Developed a RAG pipeline using LangChain and ChromaDB, enabling semantic search across 500+ documents with 92% retrieval accuracy."
+  },
+  {
+    "instruction": "Explain this AI concept simply.",
+    "input": "What is overfitting?",
+    "output": "Overfitting is when a model memorizes training data instead of learning patterns. Like a student who memorizes answers without understanding -- fails on new questions."
+  }
+]

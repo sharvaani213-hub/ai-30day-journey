@@ -11,6 +11,7 @@ to become an AI Engineer. This repo documents my daily progress.
 | Day 3 | Neural Networks, Transformers, HuggingFace, OpenAI API | Done |
 | Day 4 | LangChain, RAG Pipeline, Streamlit Chatbot App | Done |
 | Day 5 | AI Agents, Fine-tuning/LoRA, AI Career Advisor App | Done |
+| Day 6 | MLOps & MLflow, Experiment Tracking, Model Logging, Dashboard | Done |
 
 ## Tech Stack
 Python · NumPy · Pandas · Matplotlib · scikit-learn · LangChain (upcoming)

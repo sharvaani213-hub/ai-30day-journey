@@ -6,12 +6,13 @@ to become an AI Engineer. This repo documents my daily progress.
 ## Progress
 | Day | Topics | Status |
 |-----|--------|--------|
-| Day 1 | Python Basics, OOP, File I/O, NumPy, Pandas, Matplotlib | Done |
-| Day 2 | NumPy Deep Dive, Linear Regression, Classification | Done |
-| Day 3 | Neural Networks, Transformers, HuggingFace, OpenAI API | Done |
-| Day 4 | LangChain, RAG Pipeline, Streamlit Chatbot App | Done |
-| Day 5 | AI Agents, Fine-tuning/LoRA, AI Career Advisor App | Done |
-| Day 6 | MLOps & MLflow, Experiment Tracking, Model Logging, Dashboard | Done |
+| Day 1 | Python Basics, OOP, NumPy, Pandas, Matplotlib | Done |
+| Day 2 | Linear Regression, Classification, scikit-learn | Done |
+| Day 3 | Neural Networks, Transformers, HuggingFace, OpenAI | Done |
+| Day 4 | LangChain, RAG Pipeline, Streamlit Chatbot | Done |
+| Day 5 | AI Agents, Fine-tuning, LoRA, Career Advisor App | Done |
+| Day 6 | MLOps, Experiment Tracking, MLflow, Data Drift | Done |
+| Day 7 | FastAPI, Docker, Deployment -- WEEK 1 COMPLETE! | Done |
 
 ## Tech Stack
 Python · NumPy · Pandas · Matplotlib · scikit-learn · LangChain (upcoming)

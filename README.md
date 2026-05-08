@@ -15,4 +15,4 @@ to become an AI Engineer. This repo documents my daily progress.
 | Day 7 | FastAPI, Docker, Deployment -- WEEK 1 COMPLETE! | Done |
 
 ## Tech Stack
-Python · NumPy · Pandas · Matplotlib · scikit-learn · LangChain (upcoming)
+Python · NumPy · Pandas · Matplotlib · scikit-learn · LangChain

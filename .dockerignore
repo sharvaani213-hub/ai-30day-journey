@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# Logs and temp files
+*.log
+*.tmp
+chroma_db/
+
+# Large data files (mount as volumes instead)
+*.csv
+*.parquet
+
+# Test files
+tests/
+test_*.py

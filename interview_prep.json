@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Explain RAG in simple terms",
+    "a": "RAG = Retrieval Augmented Generation. Instead of relying only on the LLM's training knowledge, we first search a vector database for relevant document chunks, then pass those chunks along with the user's question to the LLM. This way the LLM answers based on YOUR specific data, reducing hallucinations and allowing up-to-date information."
+  },
+  {
+    "q": "What is the difference between fine-tuning and RAG?",
+    "a": "RAG retrieves external documents at query time -- good for frequently changing data and when you need citations. Fine-tuning bakes knowledge into the model weights -- good for consistent style/tone changes and when data is stable. For most enterprise apps, RAG is cheaper and faster to set up."
+  },
+  {
+    "q": "What is an embedding?",
+    "a": "An embedding is a dense vector of numbers that represents the semantic meaning of text. Similar meanings have similar vectors (measurable by cosine similarity). Used in RAG to find relevant documents by comparing question vectors with document vectors."
+  },
+  {
+    "q": "Explain the transformer attention mechanism",
+    "a": "Attention computes a weighted sum of value vectors, where weights come from the similarity between query and key vectors (Q, K, V). This lets each token attend to all other tokens simultaneously, unlike RNNs which process sequentially. Multi-head attention runs this in parallel across multiple subspaces."
+  },
+  {
+    "q": "What is overfitting and how do you prevent it?",
+    "a": "Overfitting is when a model memorizes training data instead of learning general patterns, resulting in high training accuracy but low test accuracy. Prevention: dropout layers, L1/L2 regularization, more training data, early stopping, cross-validation, and reducing model complexity."
+  },
+  {
+    "q": "What is a vector database and when do you use it?",
+    "a": "A vector database stores high-dimensional embeddings and enables fast similarity search (cosine or dot product). Used in RAG systems, semantic search, and recommendation systems. Examples: ChromaDB (local, free), Pinecone (cloud), FAISS (Facebook, fastest). Use when you need to find similar content at scale."
+  },
+  {
+    "q": "How would you deploy an ML model to production?",
+    "a": "1. Wrap model in FastAPI endpoint with Pydantic validation. 2. Write Dockerfile to containerize the app. 3. Push to GitHub. 4. Deploy to Render/Railway/AWS App Runner. 5. Set up monitoring for data drift and model performance degradation. 6. Implement versioning with MLflow for rollback capability."
+  },
+  {
+    "q": "What is prompt engineering and give examples of techniques",
+    "a": "Prompt engineering is designing effective LLM inputs. Key techniques: zero-shot (just ask), few-shot (give examples first), chain-of-thought (add 'think step by step'), role prompting (assign a persona in system prompt), and output anchoring (specify exact format). Good prompts dramatically improve output quality without any model training."
+  },
+  {
+    "q": "Explain the difference between precision and recall",
+    "a": "Precision = of all predicted positives, how many were actually positive (reduces false positives). Recall = of all actual positives, how many did we catch (reduces false negatives). F1 = harmonic mean of both. Use precision when false positives are costly (spam filter). Use recall when false negatives are costly (cancer detection)."
+  },
+  {
+    "q": "What is LangChain and what problem does it solve?",
+    "a": "LangChain is a framework for building LLM-powered applications. It solves the problem of manually managing prompts, API calls, memory, and output parsing. It provides: prompt templates, chains (connect LLM steps), memory (conversation history), agents (LLM that uses tools), and output parsers (structured responses). Think of it as React for AI apps."
+  }
+]

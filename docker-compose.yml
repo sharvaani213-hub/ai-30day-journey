@@ -1,0 +1,45 @@
+# ============================================================
+# docker-compose.yml
+# Run with: docker-compose up
+# ============================================================
+
+version: '3.8'
+
+services:
+
+  # FastAPI ML backend
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - ENVIRONMENT=production
+    volumes:
+      - ./models:/app/models
+    restart: always
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # Streamlit frontend
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.streamlit
+    ports:
+      - "8501:8501"
+    depends_on:
+      - api
+    environment:
+      - API_URL=http://api:8000
+    restart: always
+
+  # Optional: Redis cache for fast responses
+  # redis:
+  #   image: redis:alpine
+  #   ports:
+  #     - "6379:6379"
+

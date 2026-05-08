@@ -1,0 +1,25 @@
+{
+  "name": "Sharvaani K",
+  "achievement": "Completed Week 1 of 30-Day AI Engineering Sprint",
+  "date": "08 May 2026",
+  "skills_gained": [
+    "Programming Languages",
+    "ML/DL Frameworks",
+    "LLM & GenAI",
+    "Web & APIs",
+    "MLOps & DevOps",
+    "AI Concepts"
+  ],
+  "projects_built": [
+    "Student Data Analysis Dashboard",
+    "Salary Predictor + Placement Classifier",
+    "MNIST Neural Network (97%+ accuracy)",
+    "AI Study Buddy Chatbot (deployed)",
+    "AI Career Advisor App (deployed)",
+    "ML Experiment Tracker",
+    "FastAPI ML Serving API",
+    "Dockerized Application"
+  ],
+  "github": "https://github.com/sharvaani213-hub/ai-30day-journey",
+  "next_milestone": "Week 2 -- Build 4 production projects and apply to 20 companies"
+}

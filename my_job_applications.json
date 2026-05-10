@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "company": "ARNsofttech",
+    "role": "AI ML Engineer",
+    "location": "hyderabad",
+    "salary_range": "10",
+    "job_url": "https://www.linkedin.com/jobs/view/4410488125/",
+    "job_desc": "Arnsoft is seeking a highly skilled AI/ML Engineer to design, develop, and deploy advanced AI-driven systems that solve real-world business challenges. This role is heavily focused on building intelligent, agentic, and production-grade AI solutions—including AI Agents, Private GPTs, Small Language Models (SLMs), and Virtual Advisors. \n\n\n\nYou will work at the forefront of applied AI, leveraging state-of-the-art LLMs, multimodal systems, and deep learning techniques, while contributing to scalable backend and user-facing applications. \n\n\n\n\n\n Key Responsibilities \n\nWrite clean, efficient, and well-documented code for AI/ML applications \nCollaborate with cross-functional teams to understand project requirements and contribute to technical solutions \nHelp in building and maintaining data pipelines for AI systems \nAbility to write clear documentation and collaborate in teams using Git / GitHub \nStay updated with the latest advancements in AI, Machine Learning, and Deep Learning \nWork directly with clients to understand their needs, communicate progress, and maintain alignment throughout the project lifecycle \n\n\n AI System Design & Development (Core Focus) \n\nDesign and implement agentic AI systems with tool use, memory, reasoning, and function calling \nBuild and optimize RAG (Retrieval-Augmented Generation) pipelines, including tokenization, embedding generation, vector indexing, retrieval strategies, and caching mechanisms \nDevelop AI-powered applications using LLMs such as OpenAI, Claude, Mistral, LLaMA, and other open-source models \nFine-tune and deploy Small Language Models (SLMs) for lightweight and domain-specific use cases \nWork with open-source language and vision-language models, including quantization and performance optimization techniques \nImplement advanced prompt engineering strategies and reasoning frameworks (e.g., chain-of-thought, structured outputs) \nDevelop AI agents using frameworks such as LangChain, LlamaIndex, or similar orchestration tools \nIntegrate vector databases (Pinecone, Weaviate, FAISS) for semantic search and knowledge retrieval \nDesign and deploy multimodal AI systems, including Image processing (object detection, contour detection, OCR) \nSpeech systems (STT & TTS integration) \nBuild and optimize deep learning models (CNNs, RNNs, LSTMs) for structured and unstructured data tasks using frameworks like PyTorch, TensorFlow, and Keras \nWork with Graph Databases (e.g., Neo4j) to model knowledge graphs and enhance AI reasoning \nImplement model optimization techniques such as quantization and model compression for efficient inference \nConduct model evaluation, monitoring, and continuous improvement in production environments \nCreate data collection, cleaning, preprocessing, and ingestion pipelines \n\n\nAI Deployment & Infrastructure \n\nDeploy AI systems on cloud platforms (AWS, GCP, Azure) with scalable architecture \nBuild production-ready APIs and backend services to orchestrate AI workflows \nImplement secure and efficient inference pipelines for real-time AI applications \nWork with structured and unstructured databases \n\n\nFull Stack Development \n\nDevelop and maintain backend services using Python and/or Java to support AI applications \nBuild or integrate frontend interfaces using React to deliver intuitive AI-powered user experiences \nIntegrate third-party APIs and enterprise systems into AI solutions \nEnsure performance, scalability, and maintainability of AI-enabled applications \n\n\n\n\nRequired Experience \n\nEducation: A Bachelor's or master's degree in computer science, IT, or a related engineering discipline from a Tier 1 institution \nExperience: Must have more than 1.5 years of experience \nAcademic Performance: Consistent and strong academic record \nCore Concepts: Solid understanding of fundamental AI, Machine Learning, and Deep Learning concepts \nProgramming: Strong programming skills in Python and problem-solving ability \nFoundations: Excellent knowledge of Data Structures, Algorithms, and Object-Oriented Programming (OOPS) \nProblem-Solving: Strong analytical and problem-solving abilities with keen attention to detail \nCommunication: Excellent verbal and written communication skills \nTeamwork: A collaborative mindset with the ability to work effectively in a team environment ",
+    "notes": "jobrapido",
+    "status": "Applied",
+    "applied_date": "2026-05-11",
+    "analysis": {
+      "required": [
+        "python",
+        "machine learning",
+        "deep learning",
+        "langchain",
+        "rag",
+        "openai",
+        "tensorflow",
+        "pytorch",
+        "git",
+        "llm",
+        "vector database",
+        "prompt engineering",
+        "aws",
+        "agents"
+      ],
+      "you_have": [
+        "python",
+        "langchain",
+        "rag",
+        "openai",
+        "tensorflow",
+        "git",
+        "prompt engineering"
+      ],
+      "missing": [
+        "machine learning",
+        "deep learning",
+        "pytorch",
+        "llm",
+        "vector database",
+        "aws",
+        "agents"
+      ],
+      "score": 50.0,
+      "recommendation": "Decent match -- highlight transferable skills"
+    }
+  }
+]

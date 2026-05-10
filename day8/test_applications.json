@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "company": "Sarvam AI",
+    "role": "AI Engineer",
+    "location": "Bangalore",
+    "salary_range": "10-15 LPA",
+    "job_url": "https://sarvam.ai/careers",
+    "job_desc": "\n        We are looking for an AI Engineer with:\n        - Strong Python and machine learning fundamentals\n        - Experience with LangChain and RAG pipelines\n        - Knowledge of OpenAI API and prompt engineering\n        - Familiarity with ChromaDB or Pinecone vector databases\n        - Streamlit or FastAPI for deployment\n        - Git and Docker experience\n        - Understanding of transformers and LLMs\n        - HuggingFace experience preferred\n        ",
+    "your_skills": "\nPython, NumPy, Pandas, scikit-learn, TensorFlow, Keras,\nLangChain, OpenAI API, ChromaDB, RAG, Streamlit, FastAPI,\nGit, Docker, Prompt Engineering, HuggingFace, Neural Networks,\nSQL, Matplotlib, Data Analysis\n",
+    "notes": "Referral from LinkedIn connection\n[2026-05-11] HR screening call scheduled",
+    "status": "Interview",
+    "applied_date": "2026-05-11",
+    "last_updated": "2026-05-11",
+    "analysis": {
+      "required_skills": [
+        "python",
+        "machine learning",
+        "langchain",
+        "rag",
+        "openai",
+        "huggingface",
+        "fastapi",
+        "streamlit",
+        "docker",
+        "git",
+        "transformers",
+        "llm",
+        "vector database",
+        "chromadb",
+        "pinecone",
+        "prompt engineering"
+      ],
+      "you_have": [
+        "python",
+        "langchain",
+        "rag",
+        "openai",
+        "huggingface",
+        "fastapi",
+        "streamlit",
+        "docker",
+        "git",
+        "chromadb",
+        "prompt engineering"
+      ],
+      "missing": [
+        "machine learning",
+        "transformers",
+        "llm",
+        "vector database",
+        "pinecone"
+      ],
+      "match_score": 68.8,
+      "is_senior": false,
+      "job_type": "AI Engineer",
+      "total_required": 16,
+      "recommendation": "Good match -- apply with tailored resume"
+    },
+    "interviews": [
+      {
+        "type": "Technical Round 1",
+        "date": "2025-05-15",
+        "notes": "DSA + ML concepts"
+      }
+    ],
+    "offer": null
+  },
+  {
+    "id": 2,
+    "company": "TCS iON",
+    "role": "GenAI Developer",
+    "location": "Hyderabad",
+    "salary_range": "8-12 LPA",
+    "job_url": "https://tcs.com/careers",
+    "job_desc": "\n        GenAI Developer role:\n        - Python programming (mandatory)\n        - LLM integration using OpenAI or similar APIs\n        - Prompt engineering skills\n        - FastAPI for building AI microservices\n        - SQL for data management\n        - Git version control\n        - Understanding of NLP and deep learning\n        ",
+    "your_skills": "\nPython, NumPy, Pandas, scikit-learn, TensorFlow, Keras,\nLangChain, OpenAI API, ChromaDB, RAG, Streamlit, FastAPI,\nGit, Docker, Prompt Engineering, HuggingFace, Neural Networks,\nSQL, Matplotlib, Data Analysis\n",
+    "notes": "Applied through careers portal",
+    "status": "Applied",
+    "applied_date": "2026-05-11",
+    "last_updated": "2026-05-11",
+    "analysis": {
+      "required_skills": [
+        "python",
+        "deep learning",
+        "nlp",
+        "openai",
+        "fastapi",
+        "git",
+        "sql",
+        "llm",
+        "prompt engineering"
+      ],
+      "you_have": [
+        "python",
+        "openai",
+        "fastapi",
+        "git",
+        "sql",
+        "prompt engineering"
+      ],
+      "missing": [
+        "deep learning",
+        "nlp",
+        "llm"
+      ],
+      "match_score": 66.7,
+      "is_senior": false,
+      "job_type": "NLP Engineer",
+      "total_required": 9,
+      "recommendation": "Good match -- apply with tailored resume"
+    },
+    "interviews": [],
+    "offer": null
+  },
+  {
+    "id": 3,
+    "company": "Google DeepMind",
+    "role": "Senior ML Research Engineer",
+    "location": "Bangalore",
+    "salary_range": "40-60 LPA",
+    "job_url": "https://deepmind.com/careers",
+    "job_desc": "\n        Senior ML Research Engineer (5+ years experience):\n        - PhD or Masters in ML/AI preferred\n        - PyTorch and TensorFlow expertise\n        - Published research in top conferences (NeurIPS, ICML)\n        - Kubernetes and distributed training experience\n        - Spark for large-scale data processing\n        - Computer vision and object detection experience\n        - Deep understanding of transformers architecture\n        ",
+    "your_skills": "\nPython, NumPy, Pandas, scikit-learn, TensorFlow, Keras,\nLangChain, OpenAI API, ChromaDB, RAG, Streamlit, FastAPI,\nGit, Docker, Prompt Engineering, HuggingFace, Neural Networks,\nSQL, Matplotlib, Data Analysis\n",
+    "notes": "Stretch application -- learning experience\n[2026-05-11] Too senior, missing research experience",
+    "status": "Rejected",
+    "applied_date": "2026-05-11",
+    "last_updated": "2026-05-11",
+    "analysis": {
+      "required_skills": [
+        "tensorflow",
+        "pytorch",
+        "transformers",
+        "kubernetes",
+        "spark",
+        "computer vision",
+        "object detection"
+      ],
+      "you_have": [
+        "tensorflow"
+      ],
+      "missing": [
+        "pytorch",
+        "transformers",
+        "kubernetes",
+        "spark",
+        "computer vision",
+        "object detection"
+      ],
+      "match_score": 14.3,
+      "is_senior": true,
+      "job_type": "AI/ML Role",
+      "total_required": 7,
+      "recommendation": "Skip -- senior role, experience gap too large"
+    },
+    "interviews": [],
+    "offer": null
+  },
+  {
+    "id": 4,
+    "company": "Freshworks",
+    "role": "ML Engineer",
+    "location": "Chennai",
+    "salary_range": "12-18 LPA",
+    "job_url": "https://freshworks.com/careers",
+    "job_desc": "\n        ML Engineer position:\n        - Python with scikit-learn and TensorFlow\n        - Pandas and NumPy for data processing\n        - Machine learning model development\n        - FastAPI for model serving\n        - Docker containerization\n        - SQL database knowledge\n        - Git for version control\n        - NLP experience is a plus\n        ",
+    "your_skills": "\nPython, NumPy, Pandas, scikit-learn, TensorFlow, Keras,\nLangChain, OpenAI API, ChromaDB, RAG, Streamlit, FastAPI,\nGit, Docker, Prompt Engineering, HuggingFace, Neural Networks,\nSQL, Matplotlib, Data Analysis\n",
+    "notes": "Good culture, applied cold",
+    "status": "Applied",
+    "applied_date": "2026-05-11",
+    "last_updated": "2026-05-11",
+    "analysis": {
+      "required_skills": [
+        "python",
+        "machine learning",
+        "nlp",
+        "tensorflow",
+        "scikit-learn",
+        "numpy",
+        "pandas",
+        "fastapi",
+        "docker",
+        "git",
+        "sql"
+      ],
+      "you_have": [
+        "python",
+        "tensorflow",
+        "scikit-learn",
+        "numpy",
+        "pandas",
+        "fastapi",
+        "docker",
+        "git",
+        "sql"
+      ],
+      "missing": [
+        "machine learning",
+        "nlp"
+      ],
+      "match_score": 81.8,
+      "is_senior": false,
+      "job_type": "ML Engineer",
+      "total_required": 11,
+      "recommendation": "Apply immediately -- strong match!"
+    },
+    "interviews": [],
+    "offer": null
+  }
+]

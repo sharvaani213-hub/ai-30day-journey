@@ -1,0 +1,32 @@
+{
+  "evaluator": "Day8_RAG_System_v1",
+  "results": [
+    {
+      "question": "What is RAG and why is it important?",
+      "faithfulness": 1.0,
+      "relevance": 0.857,
+      "conciseness": 1.0,
+      "f1_vs_reference": 0.4286,
+      "rouge_vs_reference": 0.4138,
+      "overall": 0.74
+    },
+    {
+      "question": "How much do AI engineers earn in India?",
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "conciseness": 1.0,
+      "f1_vs_reference": 0.5926,
+      "rouge_vs_reference": 0.5333,
+      "overall": 0.825
+    },
+    {
+      "question": "What is Docker used for?",
+      "faithfulness": 0.0,
+      "relevance": 1.0,
+      "conciseness": 1.0,
+      "f1_vs_reference": 0.2353,
+      "rouge_vs_reference": 0.2353,
+      "overall": 0.494
+    }
+  ]
+}

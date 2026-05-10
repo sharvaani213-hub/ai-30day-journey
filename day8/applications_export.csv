@@ -1,0 +1,5 @@
+id,company,role,location,salary_range,status,applied_date,match_score,required_skills,missing_skills,job_url
+1,Sarvam AI,AI Engineer,Bangalore,10-15 LPA,Interview,2026-05-11,68.8,"python, machine learning, langchain, rag, openai, huggingface, fastapi, streamlit, docker, git, transformers, llm, vector database, chromadb, pinecone, prompt engineering","machine learning, transformers, llm, vector database, pinecone",https://sarvam.ai/careers
+2,TCS iON,GenAI Developer,Hyderabad,8-12 LPA,Applied,2026-05-11,66.7,"python, deep learning, nlp, openai, fastapi, git, sql, llm, prompt engineering","deep learning, nlp, llm",https://tcs.com/careers
+3,Google DeepMind,Senior ML Research Engineer,Bangalore,40-60 LPA,Rejected,2026-05-11,14.3,"tensorflow, pytorch, transformers, kubernetes, spark, computer vision, object detection","pytorch, transformers, kubernetes, spark, computer vision, object detection",https://deepmind.com/careers
+4,Freshworks,ML Engineer,Chennai,12-18 LPA,Applied,2026-05-11,81.8,"python, machine learning, nlp, tensorflow, scikit-learn, numpy, pandas, fastapi, docker, git, sql","machine learning, nlp",https://freshworks.com/careers
